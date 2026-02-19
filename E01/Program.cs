@@ -6,7 +6,7 @@ namespace E01
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP!");
+            Console.WriteLine("Unicode for reserved rights, without backslash: 00AE");
         }
     }
 }

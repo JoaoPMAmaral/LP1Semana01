@@ -1,4 +1,5 @@
 <Solution>
+  <Folder Name="/e01/" />
   <Folder Name="/Extra01/">
     <Project Path="Extra01/E01.csproj" />
   </Folder>

@@ -1,9 +1,5 @@
 <Solution>
-  <Folder Name="/e01/" />
-  <Folder Name="/Extra01/">
-    <Project Path="Extra01/E01.csproj" />
-  </Folder>
-  <Project Path="E01/E01.csproj" />
+  <Project Path="Extra01/Extra01.csproj" />
   <Project Path="MeuProgramar/MeuProgramar.csproj" />
   <Project Path="VariousTypes/VariousTypes.csproj" />
 </Solution>

@@ -6,7 +6,7 @@ namespace Extra01
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Registered trademark unicode without backslash: u00AE");
+            Console.WriteLine("Unicode for reserved rights, without backslash: 00AE");
         }
     }
 }

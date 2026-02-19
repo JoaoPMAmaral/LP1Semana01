@@ -6,6 +6,10 @@ namespace MeuProgramar
 {
     public class Program
     {
+        /// <summary>
+        /// writes Hello LP!, and Bye LP!
+        /// </summary>
+        /// <param name="args"></param>
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello LP!");

@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace E01
+namespace Extra01
 {
     public class Program
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP!");
+            Console.WriteLine("Registered trademark unicode without backslash: u00AE");
         }
     }
 }

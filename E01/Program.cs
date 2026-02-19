@@ -6,7 +6,7 @@ namespace E01
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Unicode for Registered trademark: u00AE");
+            Console.WriteLine("Hello LP!");
         }
     }
 }

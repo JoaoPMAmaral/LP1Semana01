@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace E01
+{
+    public class Program
+    {
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Unicode for Registered trademark: u00AE");
+        }
+    }
+}
